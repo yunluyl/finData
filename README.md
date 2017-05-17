@@ -1,6 +1,6 @@
 # finData
 
-## Quick start
+### Quick start
 
 ```
 git clone https://github.com/yunluyl/finData.git
