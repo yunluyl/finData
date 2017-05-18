@@ -1,7 +1,7 @@
 var app = require('../app');
 var https = require('https');
 var fs = require('fs');
-var port = '3000';
+var port = process.env.PORT || 3000;
 
 var options =
 {
