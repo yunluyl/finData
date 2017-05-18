@@ -11,7 +11,7 @@ var compression = require('compression');
 var app = express();
 app.use(compression());
 app.use(helmet());
-//app.use(favicon(__dirname+'/public/favicon.ico'));
+app.use(favicon(__dirname+'/public/favicon.ico'));
 app.use(morgan('dev'));
 app.use(express.static(__dirname+'/public'));
 
