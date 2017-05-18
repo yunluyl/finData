@@ -7,7 +7,7 @@
     "npm": "3.9.5"
   },
   "scripts": {
-    "start": "./serverStart"
+    "start": "node ./bin/server.js"
   },
   "author": "Yun Lu",
   "dependencies": {
