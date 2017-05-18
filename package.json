@@ -23,6 +23,7 @@
     "compression": "^1.6.2",
     "express": "^4.15.2",
     "helmet": "^3.6.0",
+    "highcharts": "^5.0.11",
     "json-loader": "^0.5.4",
     "morgan": "^1.8.1",
     "react": "^15.5.4",
